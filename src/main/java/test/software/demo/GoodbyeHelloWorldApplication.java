@@ -11,6 +11,7 @@ public class GoodbyeHelloWorldApplication {
 		System.out.println("GoodbyeHelloWorld");
 		System.out.println("Testing 12345");
 		System.out.println("Testing 6789");
+		System.out.println("This is a test that we are testing");
 		
 	}
 
