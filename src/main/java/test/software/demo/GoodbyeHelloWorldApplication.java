@@ -10,6 +10,7 @@ public class GoodbyeHelloWorldApplication {
 		SpringApplication.run(GoodbyeHelloWorldApplication.class, args);
 		System.out.println("GoodbyeHelloWorld");
 		System.out.println("Testing 12345");
+		System.out.println("Testing 6789");
 		
 	}
 
